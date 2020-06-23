@@ -13,7 +13,8 @@
         "symfony/console": "*",
         "symfony/dotenv": "*",
         "symfony/framework-bundle": "*",
-        "symfony/yaml": "*"
+        "symfony/yaml": "*",
+        "scylabs/neptune-installer": "^1"
     },
     "require-dev": {
     },
