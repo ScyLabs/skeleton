@@ -45,11 +45,9 @@
         ],
         
         "post-install-cmd": [
-            "@auto-scripts",
             "git clone https://github.com/ScyLabs/front.git"
         ],
         "post-update-cmd": [
-            "@auto-scripts"
         ]
     },
     "conflict": {
